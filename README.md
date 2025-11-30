@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm Hyungwoo Baik (Ryan)
+## Hi there 👋 I'm Hyungwoo Baik (Ryan)
 
 - 🎓 Computer Science student at University of Seoul
 - 🌏 Currently an exchange student at NC State University
