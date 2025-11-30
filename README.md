@@ -5,8 +5,10 @@
 - 💻 Interested in **Full-Stack development** and **Data Analytics**
 - ⚽ Love playing sports and collaborating with people
 
+
 안녕하세요, 서울시립대학교 컴퓨터과학부 3학년으로 프론트엔드 개발과 데이터 분석을 중심으로 다양한 프로젝트를 만들어가고 있는 백형우입니다.  
 사용자에게 도움이 되는 아이디어/제품을 직접 구현하며 배우는 과정을 좋아하고, 팀과 함께 문제를 해결하며 성장하는 경험을 소중하게 생각합니다.
+
 
 ## 📌 경험 / 프로젝트
 
